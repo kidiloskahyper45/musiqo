@@ -30,7 +30,7 @@ and Join [support](https://t.me/unitedbotsupport) to know about this bot
                 ],
                 [
                     InlineKeyboardButton(
-                        "GROUP", url="https://t.me/unitedbotsupport"
+                        "GROUP", url="https://t.me/rosebakthan"
                     ),
                     InlineKeyboardButton(
                         "CHANNEL", url="https://t.me/Tubots"
