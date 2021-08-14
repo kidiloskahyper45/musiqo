@@ -33,7 +33,7 @@ and Join [support](https://t.me/unitedbotsupport) to know about this bot
                         "GROUP", url="https://t.me/rosebakthan"
                     ),
                     InlineKeyboardButton(
-                        "CHANNEL", url="https://t.me/Tubots"
+                        "CHANNEL", url="https://t.me/rosebakthan"
                     ),
                     InlineKeyboardButton(
                         "CREDITS", url="https://t.me/Psycho_Bots"
